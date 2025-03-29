@@ -35,7 +35,8 @@ Active development is done in the `develop` branch.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-Developer IRC is inactive please join us on discord in #development. https://discord.gg/fndp4NBGct
+Developer IRC is inactive please join us on discord in #development. https://discord.com/invite/jn6uhur
+
 
 Testing
 -------
